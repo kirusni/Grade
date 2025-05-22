@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Grade_0
+namespace Grade_1
 {
     class Program
     {
@@ -45,6 +45,7 @@ namespace Grade_0
             {
                 Console.WriteLine("An error occurred: " + ex.Message);
             }
+
             Console.ReadLine();
         }
     }
